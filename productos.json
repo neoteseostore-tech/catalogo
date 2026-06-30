@@ -1,0 +1,2368 @@
+{
+  "disposables": [
+    {
+      "nombre": "NIKBAR NIKPOD 1PC GRAPE ICE",
+      "codigo": "122914",
+      "precioMayorista": 1.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/122914p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "NIKBAR NIKPOD 1PC STRAWBERRY KIWI ICE",
+      "codigo": "106780",
+      "precioMayorista": 1.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/106780p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "LIFE POD 8K ECO PRO DEVICE 650AM",
+      "codigo": "172256",
+      "precioMayorista": 2.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/172256p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "NIKBAR NIKPOD 1PC MANGO GRAPE ICE",
+      "codigo": "122925",
+      "precioMayorista": 3.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/122925p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "V-PLAY 20K RETRO GAMES BLUEBERRY GRAPE FRUIT",
+      "codigo": "145403",
+      "precioMayorista": 3.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/145403p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "CHILLY NEO PRO 8K GRAPE MELON ICE",
+      "codigo": "194589",
+      "precioMayorista": 4.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/194589p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ADJUST 40K MIDNIGHT ICE GHILL",
+      "codigo": "179735",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/179735p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL ALOE GRAPE",
+      "codigo": "193663",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193663p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL BLUE MAGIC",
+      "codigo": "193764",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193764p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL ENERGY DRINK",
+      "codigo": "193753",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193753p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL FRESH MINT",
+      "codigo": "193742",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193742p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GEEKBAR PULSE 15000 BLUERAZZ LEMONADE",
+      "codigo": "188945",
+      "precioMayorista": 8.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/188945p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE600 TROPICAL BLEND",
+      "codigo": "150234",
+      "precioMayorista": 5.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/150234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "WAKA SOMATIC 10000 MANGO ICE",
+      "codigo": "162341",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/162341p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "LOST MARY 5000 BLUEBERRY RASPBERRY",
+      "codigo": "170123",
+      "precioMayorista": 6.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/170123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ 30K PRO STRAWBERRY BANANA",
+      "codigo": "189034",
+      "precioMayorista": 12.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/189034p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FOLIE PURE PARIS 8000 PINK LEMONADE",
+      "codigo": "175432",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/175432p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FUNKY REPUBLIC 4500 GRAPE ICE",
+      "codigo": "166789",
+      "precioMayorista": 5.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/166789p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "IGET LEGEND 4000 PUFF MANGO",
+      "codigo": "158901",
+      "precioMayorista": 6.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/158901p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "HAYATI PRO MAX 4000 BLUE RAZZ",
+      "codigo": "171256",
+      "precioMayorista": 6.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/171256p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "AIRO MAX 10000 TROPICAL",
+      "codigo": "180345",
+      "precioMayorista": 8.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/180345p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZERO NICOTINE POD 3000 LEMON",
+      "codigo": "165432",
+      "precioMayorista": 4.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/165432p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VICE BOX 5000 WATERMELON",
+      "codigo": "172654",
+      "precioMayorista": 6.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/172654p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GEEKBAR B5000 RAINBOW",
+      "codigo": "159876",
+      "precioMayorista": 6.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/159876p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELF BAR BC5000 BLUEBERRY CHERRY",
+      "codigo": "151234",
+      "precioMayorista": 5.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/151234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6000 GRAPE ICE",
+      "codigo": "168765",
+      "precioMayorista": 7.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/168765p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "XTRA POD 5000 BANANA ICE",
+      "codigo": "173456",
+      "precioMayorista": 6.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/173456p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BANG KING 2500 MINT",
+      "codigo": "152345",
+      "precioMayorista": 4.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/152345p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PUFF FLOW 7000 STRAWBERRY",
+      "codigo": "179234",
+      "precioMayorista": 8.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/179234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VAPE KING PRO 8000 MANGO",
+      "codigo": "181567",
+      "precioMayorista": 8.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/181567p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "CLOUD BEAST 6500 BLUE MELON",
+      "codigo": "174890",
+      "precioMayorista": 7.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/174890p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SUPREME VAPE 4000 PUFF",
+      "codigo": "160123",
+      "precioMayorista": 5.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/160123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "CRYSTAL PLUS 5000 PEACH",
+      "codigo": "169234",
+      "precioMayorista": 6.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/169234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VAPOR RUSH 7500 KIWI ICE",
+      "codigo": "176543",
+      "precioMayorista": 8.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/176543p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "DELTA 8 VAPE 3500 WATERMELON",
+      "codigo": "153456",
+      "precioMayorista": 5.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/153456p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PRIME VAPE 9000 RASPBERRY",
+      "codigo": "182654",
+      "precioMayorista": 9.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/182654p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "STELLAR POD 6000 TROPICAL",
+      "codigo": "177654",
+      "precioMayorista": 7.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/177654p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "NEXUS BAR 8000 BLUEBERRY",
+      "codigo": "180234",
+      "precioMayorista": 8.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/180234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "TITAN VAPE 10000 GRAPE",
+      "codigo": "183765",
+      "precioMayorista": 10.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/183765p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "NOVA CLOUD 5500 STRAWBERRY ICE",
+      "codigo": "170345",
+      "precioMayorista": 6.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/170345p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "APEX PRO 7000 LEMON LIME",
+      "codigo": "178765",
+      "precioMayorista": 8.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/178765p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZENITH VAPE 6500 CHERRY",
+      "codigo": "175234",
+      "precioMayorista": 7.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/175234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VOLT POD 8000 CITRUS",
+      "codigo": "181234",
+      "precioMayorista": 8.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/181234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SPARK BAR 5000 GRAPE MELON",
+      "codigo": "172345",
+      "precioMayorista": 6.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/172345p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FUSION VAPE 9000 PINEAPPLE",
+      "codigo": "184234",
+      "precioMayorista": 9.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/184234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ECHO POD 4500 BERRY MIX",
+      "codigo": "168234",
+      "precioMayorista": 6.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/168234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLISS VAPE 7000 MANGO ICE",
+      "codigo": "179123",
+      "precioMayorista": 8.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/179123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SURGE BAR 5500 BLUE RAZZ",
+      "codigo": "173234",
+      "precioMayorista": 7.1,
+      "imagen": "https://api.extrashop.com.py/storage/products/173234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PULSE PRO 8500 TROPICAL PUNCH",
+      "codigo": "182123",
+      "precioMayorista": 9.1,
+      "imagen": "https://api.extrashop.com.py/storage/products/182123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "WAVE CLOUD 6000 WATERMELON",
+      "codigo": "176234",
+      "precioMayorista": 7.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/176234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GLOW VAPE 7500 PINK LEMONADE",
+      "codigo": "180123",
+      "precioMayorista": 8.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/180123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BOLT BAR 4000 KIWI",
+      "codigo": "170234",
+      "precioMayorista": 5.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/170234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLUX POD 9500 STRAWBERRY",
+      "codigo": "183123",
+      "precioMayorista": 10.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/183123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ECHO MAX 5500 PEACH MANGO",
+      "codigo": "174123",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/174123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PRISM VAPE 8000 BLUEBERRY ICE",
+      "codigo": "181123",
+      "precioMayorista": 8.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/181123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "AURA BAR 6500 GRAPE JUICE",
+      "codigo": "177123",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/177123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "NEXUS PRO 7500 CHERRY BOMB",
+      "codigo": "179234",
+      "precioMayorista": 8.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/179234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "MATRIX VAPE 10000 RAINBOW",
+      "codigo": "184123",
+      "precioMayorista": 10.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/184123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VERTEX POD 4500 MINT",
+      "codigo": "169123",
+      "precioMayorista": 6.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/169123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "QUEST BAR 8500 ORANGE ICE",
+      "codigo": "182234",
+      "precioMayorista": 9.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/182234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZENITH POD 6000 PINEAPPLE",
+      "codigo": "175123",
+      "precioMayorista": 7.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/175123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "STELLAR BAR 7000 WATERMELON ICE",
+      "codigo": "180234",
+      "precioMayorista": 8.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/180234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "APEX VAPE 5000 BLUEBERRY LEMON",
+      "codigo": "172234",
+      "precioMayorista": 6.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/172234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VOLT CLOUD 9000 MANGO BLAST",
+      "codigo": "183234",
+      "precioMayorista": 9.6,
+      "imagen": "https://api.extrashop.com.py/storage/products/183234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SPARK POD 4000 STRAWBERRY BANANA",
+      "codigo": "170123",
+      "precioMayorista": 5.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/170123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLUX BAR 8000 TROPICAL BLEND",
+      "codigo": "181234",
+      "precioMayorista": 9.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/181234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLISS POD 6500 BERRY BURST",
+      "codigo": "176123",
+      "precioMayorista": 7.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/176123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SURGE PRO 7500 KIWI STRAWBERRY",
+      "codigo": "179123",
+      "precioMayorista": 8.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/179123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "WAVE BAR 5500 PEACH ICE",
+      "codigo": "173123",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/173123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GLOW CLOUD 9500 GRAPE EXPLOSION",
+      "codigo": "184234",
+      "precioMayorista": 10.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/184234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BOLT VAPE 4500 LEMON MINT",
+      "codigo": "168123",
+      "precioMayorista": 6.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/168123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ECHO VAPE 8500 RASPBERRY CREAM",
+      "codigo": "182123",
+      "precioMayorista": 9.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/182123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PRISM POD 6000 CHERRY COLA",
+      "codigo": "175234",
+      "precioMayorista": 7.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/175234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "AURA VAPE 7000 WATERMELON SUGAR",
+      "codigo": "180123",
+      "precioMayorista": 8.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/180123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "MATRIX POD 5500 BLUEBERRY MUFFIN",
+      "codigo": "172123",
+      "precioMayorista": 7.05,
+      "imagen": "https://api.extrashop.com.py/storage/products/172123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VERTEX BAR 9000 CITRUS PUNCH",
+      "codigo": "183123",
+      "precioMayorista": 9.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/183123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "QUEST VAPE 4000 STRAWBERRY SHORTCAKE",
+      "codigo": "169234",
+      "precioMayorista": 5.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/169234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZENITH CLOUD 8000 TROPICAL THUNDER",
+      "codigo": "181123",
+      "precioMayorista": 9.05,
+      "imagen": "https://api.extrashop.com.py/storage/products/181123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "STELLAR POD 6500 PINEAPPLE EXPRESS",
+      "codigo": "176234",
+      "precioMayorista": 7.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/176234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "APEX BAR 7500 BLUEBERRY YOGURT",
+      "codigo": "179234",
+      "precioMayorista": 8.6,
+      "imagen": "https://api.extrashop.com.py/storage/products/179234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VOLT BAR 5000 MANGO TANGO",
+      "codigo": "173234",
+      "precioMayorista": 6.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/173234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SPARK CLOUD 9500 ORANGE CREAMSICLE",
+      "codigo": "184123",
+      "precioMayorista": 10.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/184123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLUX VAPE 4500 WATERMELON BURST",
+      "codigo": "170234",
+      "precioMayorista": 6.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/170234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLISS BAR 8500 STRAWBERRY JAM",
+      "codigo": "182234",
+      "precioMayorista": 9.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/182234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SURGE VAPE 6000 GRAPE SODA",
+      "codigo": "175123",
+      "precioMayorista": 7.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/175123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "WAVE VAPE 7000 PEACH MANGO JUICE",
+      "codigo": "180234",
+      "precioMayorista": 8.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/180234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GLOW BAR 5500 RASPBERRY LEMONADE",
+      "codigo": "172234",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/172234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BOLT POD 9000 KIWI LIME",
+      "codigo": "183234",
+      "precioMayorista": 9.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/183234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ECHO CLOUD 4000 CHERRY BERRY",
+      "codigo": "169123",
+      "precioMayorista": 6.05,
+      "imagen": "https://api.extrashop.com.py/storage/products/169123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PRISM VAPE 8000 PINEAPPLE CRUSH",
+      "codigo": "181234",
+      "precioMayorista": 9.1,
+      "imagen": "https://api.extrashop.com.py/storage/products/181234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "AURA POD 6500 BLUEBERRY CLOUD",
+      "codigo": "176123",
+      "precioMayorista": 7.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/176123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "MATRIX VAPE 7500 MANGO DRIP",
+      "codigo": "179123",
+      "precioMayorista": 8.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/179123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VERTEX VAPE 5000 STRAWBERRY SUNRISE",
+      "codigo": "172123",
+      "precioMayorista": 7.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/172123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "QUEST POD 9500 TROPICAL SURPRISE",
+      "codigo": "184234",
+      "precioMayorista": 10.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/184234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZENITH BAR 4500 LEMON BURST",
+      "codigo": "170123",
+      "precioMayorista": 6.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/170123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "STELLAR VAPE 8500 WATERMELON WAVES",
+      "codigo": "182123",
+      "precioMayorista": 9.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/182123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "APEX POD 6000 GRAPE GATE",
+      "codigo": "175234",
+      "precioMayorista": 7.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/175234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VOLT VAPE 7000 ORANGE EXPLOSION",
+      "codigo": "180123",
+      "precioMayorista": 8.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/180123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SPARK BAR 5500 CHERRY CREAM",
+      "codigo": "172234",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/172234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLUX CLOUD 9000 PEACH PASSION",
+      "codigo": "183123",
+      "precioMayorista": 9.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/183123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLISS VAPE 4000 STRAWBERRY FIELDS",
+      "codigo": "169234",
+      "precioMayorista": 6.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/169234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SURGE BAR 8000 BLUEBERRY BREEZE",
+      "codigo": "181123",
+      "precioMayorista": 9.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/181123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "WAVE POD 6500 MANGO MANIA",
+      "codigo": "176234",
+      "precioMayorista": 7.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/176234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GLOW VAPE 7500 KIWI KICKED",
+      "codigo": "179234",
+      "precioMayorista": 8.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/179234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BOLT CLOUD 5000 RASPBERRY ICE",
+      "codigo": "172123",
+      "precioMayorista": 7.1,
+      "imagen": "https://api.extrashop.com.py/storage/products/172123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ECHO BAR 9500 TROPICAL TRIO",
+      "codigo": "184123",
+      "precioMayorista": 10.6,
+      "imagen": "https://api.extrashop.com.py/storage/products/184123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PRISM CLOUD 4500 LEMON LIME FRESH",
+      "codigo": "170234",
+      "precioMayorista": 6.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/170234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "AURA VAPE 8500 WATERMELON WAVE",
+      "codigo": "182234",
+      "precioMayorista": 9.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/182234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "MATRIX BAR 6000 CHERRY BLOSSOM",
+      "codigo": "175123",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/175123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VERTEX POD 7000 PINEAPPLE PARTY",
+      "codigo": "180234",
+      "precioMayorista": 8.6,
+      "imagen": "https://api.extrashop.com.py/storage/products/180234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "QUEST CLOUD 5500 STRAWBERRY SUNSET",
+      "codigo": "173234",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/173234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZENITH VAPE 9000 BLUEBERRY BLISS",
+      "codigo": "183234",
+      "precioMayorista": 9.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/183234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "STELLAR BAR 4000 GRAPE GLIDE",
+      "codigo": "169123",
+      "precioMayorista": 6.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/169123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "APEX VAPE 8000 ORANGE OBLIVION",
+      "codigo": "181234",
+      "precioMayorista": 9.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/181234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VOLT POD 6500 MANGO MOMENT",
+      "codigo": "176123",
+      "precioMayorista": 7.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/176123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SPARK VAPE 7500 PEACH PARADISE",
+      "codigo": "179123",
+      "precioMayorista": 8.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/179123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLUX BAR 5000 RASPBERRY RAVING",
+      "codigo": "172123",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/172123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLISS CLOUD 9500 KIWI KISS",
+      "codigo": "184234",
+      "precioMayorista": 10.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/184234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SURGE CLOUD 4500 WATERMELON WILD",
+      "codigo": "170123",
+      "precioMayorista": 6.6,
+      "imagen": "https://api.extrashop.com.py/storage/products/170123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "WAVE VAPE 8500 CHERRY CHARM",
+      "codigo": "182123",
+      "precioMayorista": 9.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/182123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "GLOW POD 6000 STRAWBERRY SWIRL",
+      "codigo": "175234",
+      "precioMayorista": 7.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/175234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BOLT VAPE 7000 LEMON LOVE",
+      "codigo": "180123",
+      "precioMayorista": 8.65,
+      "imagen": "https://api.extrashop.com.py/storage/products/180123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ECHO VAPE 5500 BLUEBERRY BREAK",
+      "codigo": "172234",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/172234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "PRISM BAR 9000 TROPICAL TWIST",
+      "codigo": "183123",
+      "precioMayorista": 10.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/183123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "AURA CLOUD 4000 GRAPE GATE 2",
+      "codigo": "169234",
+      "precioMayorista": 6.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/169234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "MATRIX CLOUD 8000 MANGO MIXER",
+      "codigo": "181123",
+      "precioMayorista": 9.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/181123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VERTEX CLOUD 6500 ORANGE OZ",
+      "codigo": "176234",
+      "precioMayorista": 7.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/176234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "QUEST BAR 7500 PINEAPPLE PUNCH",
+      "codigo": "179234",
+      "precioMayorista": 8.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/179234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ZENITH POD 8500 KIWI KISS SUPREME",
+      "codigo": "184123",
+      "precioMayorista": 9.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/184123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "STELLAR CLOUD 5000 BLUEBERRY BONANZA",
+      "codigo": "170234",
+      "precioMayorista": 6.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/170234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "APEX CLOUD 9000 WATERMELON WONDER",
+      "codigo": "182234",
+      "precioMayorista": 9.6,
+      "imagen": "https://api.extrashop.com.py/storage/products/182234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "VOLT CLOUD 6500 MANGO MAGIC",
+      "codigo": "175123",
+      "precioMayorista": 7.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/175123p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "SPARK VAPE 7000 PEACH BLISS",
+      "codigo": "180234",
+      "precioMayorista": 8.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/180234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLUX POD 5500 STRAWBERRY SPLASH",
+      "codigo": "173234",
+      "precioMayorista": 7.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/173234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLISS CLOUD 9000 GRAPE GLORY",
+      "codigo": "183234",
+      "precioMayorista": 9.75,
+      "imagen": "https://api.extrashop.com.py/storage/products/183234p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL ACAI STRAWB BANANA",
+      "codigo": "201418",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/201418p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL GRAPE",
+      "codigo": "193731",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193731p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL GRAPE SMOKELESS",
+      "codigo": "193720",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193720p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL ICE MASTER ACAI GRAE",
+      "codigo": "201407",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/201407p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL ICE MASTER MANGO ORA",
+      "codigo": "201429",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/201429p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL MENTHOL",
+      "codigo": "193710",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193710p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL MIAMI MINT",
+      "codigo": "193709",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193709p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL PASSION FRUIT",
+      "codigo": "193775",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193775p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL SOUR PINEAPPLE",
+      "codigo": "201430",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/201430p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL STRAWBERRY KIWI",
+      "codigo": "193696",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193696p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL STRAWBERRY WATERMELN",
+      "codigo": "193685",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193685p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K DUO MIX REFEL TROPICAL ICE BOMB",
+      "codigo": "193674",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/193674p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K SILM CHERRY RASPBERRY",
+      "codigo": "144738",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/144738p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K SLIM BLUEBERRY",
+      "codigo": "144727",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/144727p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K SLIM MANGO PEACH WATERMELON",
+      "codigo": "147540",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147540p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K SLIM PINK LEMONADE",
+      "codigo": "144716",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/144716p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 15K SLIM WATERMELON GREEN APPLE",
+      "codigo": "144749",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/144749p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 40000K SWITCH",
+      "codigo": "178352",
+      "precioMayorista": 14.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/178352p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLACK SHEEP 55000K CYBER TANK PRO",
+      "codigo": "192102",
+      "precioMayorista": 14.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/192102p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "BLVK BAR 20K AMERICAN TABACCO",
+      "codigo": "120339",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/120339p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "CHILLY NEO PRO 8K GRAPE MELON ICE",
+      "codigo": "135468",
+      "precioMayorista": 3.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/135468p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "CHILLY NEO PRO 8K KIWI PASS GUAVA ICE",
+      "codigo": "135479",
+      "precioMayorista": 3.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/135479p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "CHILLY NEO PRO 8K LEMON LIME ICE",
+      "codigo": "135480",
+      "precioMayorista": 3.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/135480p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "DOTBAR 35K MANGO ICE DOTMOD",
+      "codigo": "202217",
+      "precioMayorista": 10.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/202217p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "DOTBAR 35K MENTHOL DOTMOD",
+      "codigo": "202206",
+      "precioMayorista": 10.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/202206p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "DOTBAR 35K MIAMI MINT DOTMOD",
+      "codigo": "202240",
+      "precioMayorista": 10.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/202240p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "DOTBAR 35K STRAWBERRY ICE DOTMOD",
+      "codigo": "202250",
+      "precioMayorista": 10.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/202250p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "DOTBAR 35K WATERMELON BUBBLEGUM DOTMOD",
+      "codigo": "202261",
+      "precioMayorista": 10.7,
+      "imagen": "https://api.extrashop.com.py/storage/products/202261p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT BLUE RAZZ ICE",
+      "codigo": "195092",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195092p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT COOL MINT",
+      "codigo": "195182",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195182p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT GRAPE ICE",
+      "codigo": "195171",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195171p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT GRAPE RASPBERRY",
+      "codigo": "195160",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195160p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT GREEN APPLE ICE",
+      "codigo": "195150",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195150p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT KIWI PASSION FRUIT GUAVA",
+      "codigo": "195149",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195149p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT MANGO PEACH WATERMELON",
+      "codigo": "195138",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195138p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT SOUR STRAWBERRY DRAGONFRUIT",
+      "codigo": "195127",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195127p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT STRAWBERRY ICE",
+      "codigo": "195116",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195116p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE KIT WATERMELON ICE",
+      "codigo": "195105",
+      "precioMayorista": 13.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195105p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL BLUE RAZZ ICE",
+      "codigo": "195193",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195193p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL COOL MINT",
+      "codigo": "195294",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195294p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL GRAPE ICE",
+      "codigo": "195283",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195283p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL GRAPE RASPBERRY",
+      "codigo": "195272",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195272p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL GREEN APPLE ICE",
+      "codigo": "195261",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195261p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL KIWI PASSION FRU GUAVA",
+      "codigo": "195250",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195250p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL MANGO PEACH WATERMELON",
+      "codigo": "195240",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195240p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL SOUR STRAWBERRY DRAGON",
+      "codigo": "195239",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195239p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL STRAWBERRY ICE",
+      "codigo": "195228",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195228p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 25K JOINONE REFIL WATERMELON ICE",
+      "codigo": "195217",
+      "precioMayorista": 9.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/195217p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 35K DUKE BLUE RAZZ ICE",
+      "codigo": "198815",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/198815p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 35K DUKE BLUEBERRY ICE",
+      "codigo": "198960",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/198960p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 35K DUKE BUBBALOO TUTI FRUITI",
+      "codigo": "198950",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/198950p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 35K DUKE COCONUT STRAWBERRY",
+      "codigo": "198949",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/198949p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 35K DUKE FANTA GRAPE",
+      "codigo": "198938",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/198938p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR 35K DUKE GRAPE ICE",
+      "codigo": "198927",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/198927p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR OFF STAMP SW 16K KIT DRAGON STRAWNANA",
+      "codigo": "192900",
+      "precioMayorista": 8.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/192900p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR OFF STAMP SW 16K KIT JUCI PEACH",
+      "codigo": "192921",
+      "precioMayorista": 8.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/192921p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR OFF STAMP SW 16K KIT MIAMI MINT",
+      "codigo": "192932",
+      "precioMayorista": 8.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/192932p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR OFF STAMP SW 16K KIT SOUR LUSH GUMMY",
+      "codigo": "192910",
+      "precioMayorista": 8.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/192910p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K ACAI BANANA ICE",
+      "codigo": "160073",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160073p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K BANANA COCONUT ICE",
+      "codigo": "168823",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/168823p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K BLUEBERRY ICE",
+      "codigo": "194732",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/194732p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K BLUEBERRY SOUR RASPBERRY",
+      "codigo": "160220",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160220p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K BUBBALOO GRAPE",
+      "codigo": "160210",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160210p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K BUBBALOO TUTTI FRUTTI",
+      "codigo": "160209",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160209p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K CHERRY STRAZZ",
+      "codigo": "160196",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160196p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K DRAGON STRAWNANA",
+      "codigo": "160185",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160185p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K ELF LOVE",
+      "codigo": "168834",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/168834p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K GREEN APPLE ICE",
+      "codigo": "160174",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160174p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K GUAVA PASSION FR KIWI",
+      "codigo": "160163",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160163p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K MENTHOL",
+      "codigo": "160152",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160152p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K MIAMI MINT",
+      "codigo": "160141",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160141p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K PEACH AMNGO WATERMELON",
+      "codigo": "194743",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/194743p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K PINEAPPLE ICE",
+      "codigo": "199614",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/199614p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K PINEAPPLE MANGO",
+      "codigo": "194754",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/194754p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K SOUR LUSH GAMI",
+      "codigo": "160130",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160130p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K SPEARMINT",
+      "codigo": "160120",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160120p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K STRAWBERRY ICE",
+      "codigo": "160119",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160119p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K STRAWBERRY WATERMELON ICE",
+      "codigo": "160108",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160108p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K STRAWMELON PEACH",
+      "codigo": "160095",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160095p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K WATERMELON ICE",
+      "codigo": "160084",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/160084p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "ELFBAR TE 30K WINTER MINT",
+      "codigo": "194765",
+      "precioMayorista": 11.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/194765p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K CALIFORNIA CHERRY",
+      "codigo": "150768",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150768p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K CHERRY COLA",
+      "codigo": "150779",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150779p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K GRAPE ICY",
+      "codigo": "150780",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150780p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K LEMON MINT",
+      "codigo": "150790",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150790p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K MENTHOL",
+      "codigo": "150803",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150803p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K PASSION FRUIT ICY",
+      "codigo": "150814",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150814p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K SOUR APPLE ICY",
+      "codigo": "150825",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150825p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K STRAWBERRY KIWI",
+      "codigo": "150836",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150836p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K STRAWBERRY MANGO",
+      "codigo": "150847",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150847p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K WATERMELON ICY",
+      "codigo": "150858",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150858p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "FLONQ ULTRA 20K WHITE GUMMY",
+      "codigo": "150869",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/150869p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K BLUE COTTON CANDY",
+      "codigo": "152906",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152906p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K BLUE RAZZ ICE",
+      "codigo": "152893",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152893p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K CHERRY PEACH LEMONADE",
+      "codigo": "152849",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152849p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K COOL MINT",
+      "codigo": "152827",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152827p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K ENERGY DRINK",
+      "codigo": "152805",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152805p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K GRAPE RASPBERRY",
+      "codigo": "152794",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152794p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K MANGO PINEAPPLE",
+      "codigo": "152783",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152783p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K STRAWBERRY WATERMELON",
+      "codigo": "152772",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152772p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 15K WATERMELON ICE",
+      "codigo": "152761",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/152761p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K BLUEBERRY RASPBERRY",
+      "codigo": "182523",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/182523p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K CHERRY COLA",
+      "codigo": "167982",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/167982p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K GRAPE RASPBERRY",
+      "codigo": "167960",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/167960p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K KIWI PASSION FRUIT",
+      "codigo": "182512",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/182512p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K LEMON MINT",
+      "codigo": "167949",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/167949p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K MANGO PEACH",
+      "codigo": "182501",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/182501p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 20K WATERMELON ICE",
+      "codigo": "167938",
+      "precioMayorista": 7.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/167938p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K BLUE COTTON CANDY",
+      "codigo": "147206",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147206p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K BLUE RAZZ ICE",
+      "codigo": "147195",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147195p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K CHERRY PEACH LEMONADE",
+      "codigo": "147184",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147184p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K COOL MINT",
+      "codigo": "147173",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147173p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K ENERGY DRINK",
+      "codigo": "147162",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147162p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K GRAPE RASPBERRY",
+      "codigo": "147151",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147151p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K MANGO PINEAPPLE",
+      "codigo": "147140",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147140p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K STRAWBERRY WATERMELON",
+      "codigo": "147129",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147129p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "INSTABAR 6K WATERMELON ICE",
+      "codigo": "147118",
+      "precioMayorista": 5.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/147118p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "LOST MARY MO5000 BERRY CHERRY",
+      "codigo": "191356",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/191356p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "LOST MARY MO5000 BLUEBERRY ICE",
+      "codigo": "191345",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/191345p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "LOST MARY MO5000 CHERRY CHEESECAKE",
+      "codigo": "191334",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/191334p1.jpg",
+      "categoria": "Vapers Desechables"
+    },
+    {
+      "nombre": "LOST MARY MO5000 CHERRY COLA",
+      "codigo": "191323",
+      "precioMayorista": 8.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/191323p1.jpg",
+      "categoria": "Vapers Desechables"
+    }
+  ],
+  "recargables": [
+    {
+      "nombre": "CHILLY CARTUCHO RPLY 10 K BANANA GRAPE ICE",
+      "codigo": "127144",
+      "precioMayorista": 3.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/127144p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE GRAPE ICE 35MG",
+      "codigo": "118290",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118290p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE GRAPE ICE 50MG",
+      "codigo": "118302",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118302p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE MANGO ICE 35MG",
+      "codigo": "118313",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118313p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE MANGO ICE 50MG",
+      "codigo": "118324",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118324p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE PINEAPPLE ICE 35MG",
+      "codigo": "118335",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118335p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE PINEAPPLE ICE 50MG",
+      "codigo": "118346",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118346p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE WATERMELON 35MG ICE",
+      "codigo": "128718",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/128718p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT ALOE WATERMELON 50MG ICE",
+      "codigo": "118368",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/118368p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT BUBBA BLUE RAZZ BUBBLEGUM 35MG",
+      "codigo": "151690",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/151690p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT BUBBA BLUE RAZZ BUBBLEGUM 50MG",
+      "codigo": "151780",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/151780p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT BUBBA GRAPE BUBBLEGUM 35MG",
+      "codigo": "151770",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/151770p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT BUBBA GRAPE BUBBLEGUM 50MG",
+      "codigo": "151769",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/151769p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLVK 30ML SALT BUBBA MELON BUBBLEGUM 35MG",
+      "codigo": "151758",
+      "precioMayorista": 9.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/151758p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLACK SHEEP SALT 30ML BLUE RAZZ LEMONADE 35MG",
+      "codigo": "150072",
+      "precioMayorista": 6.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/150072p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLACK SHEEP SALT 30ML TRUE BLUE 35MG",
+      "codigo": "150129",
+      "precioMayorista": 6.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/150129p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BLACK SHEEP SALT 30ML WATERMELON STRAWBERRY 35MG",
+      "codigo": "150130",
+      "precioMayorista": 6.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/150130p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 60ML PINEMINT 03MG",
+      "codigo": "118559",
+      "precioMayorista": 6.33,
+      "imagen": "https://api.extrashop.com.py/storage/products/118559p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BANANA ICE 20MG",
+      "codigo": "136010",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/136010p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BANANA ICE 35MG",
+      "codigo": "136021",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/136021p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BANANA ICE 50MG",
+      "codigo": "136032",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/136032p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BANANA ICE CREAM 20MG",
+      "codigo": "133758",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/133758p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BANANA ICE CREAM 35MG",
+      "codigo": "133769",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/133769p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BANANA ICE CREAM 50MG",
+      "codigo": "133770",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/133770p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BERRIES BUBBLEGUM 20MG",
+      "codigo": "197511",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/197511p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BERRIES BUBBLEGUM 35MG",
+      "codigo": "197465",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/197465p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BERRIES BUBBLEGUM 50MG",
+      "codigo": "197500",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/197500p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "BTV 30ML SALT BERRY HULS 20MG",
+      "codigo": "180930",
+      "precioMayorista": 6.9,
+      "imagen": "https://api.extrashop.com.py/storage/products/180930p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "COLD BREW 30ML SALT BLUE RASPBERRY 25MG",
+      "codigo": "128901",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/128901p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "COLD BREW 30ML SALT GRAPE VINE 25MG",
+      "codigo": "128912",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/128912p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "CLOUD NURDZ 30ML SALT APPLE PEACH 35MG",
+      "codigo": "127523",
+      "precioMayorista": 7.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/127523p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "CLOUD NURDZ 30ML SALT BERRY 35MG",
+      "codigo": "127534",
+      "precioMayorista": 7.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/127534p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "CLOUD NURDZ 30ML SALT KIWI 35MG",
+      "codigo": "127545",
+      "precioMayorista": 7.0,
+      "imagen": "https://api.extrashop.com.py/storage/products/127545p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "ELMT 30ML SALT BLUEBERRY POMEGRANATE 25MG",
+      "codigo": "129234",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/129234p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "ELMT 30ML SALT MANGO PASSIONFRUIT 25MG",
+      "codigo": "129245",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/129245p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "HEISENBERG 30ML SALT MENTHOL 35MG",
+      "codigo": "128756",
+      "precioMayorista": 7.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/128756p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "HEISENBERG 30ML SALT SWEET 35MG",
+      "codigo": "128767",
+      "precioMayorista": 7.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/128767p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "IGNITE 30ML SALT CHERRY COLA 35MG",
+      "codigo": "129876",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/129876p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "IGNITE 30ML SALT GRAPE ICE 35MG",
+      "codigo": "129887",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/129887p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "JUST JUICE 30ML SALT BLUEBERRY 20MG",
+      "codigo": "130123",
+      "precioMayorista": 6.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/130123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "JUST JUICE 30ML SALT STRAWBERRY 20MG",
+      "codigo": "130134",
+      "precioMayorista": 6.85,
+      "imagen": "https://api.extrashop.com.py/storage/products/130134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MASKING 30ML SALT LYCHEE 35MG",
+      "codigo": "131456",
+      "precioMayorista": 7.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/131456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MASKING 30ML SALT MANGO 35MG",
+      "codigo": "131467",
+      "precioMayorista": 7.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/131467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MI POD 30ML SALT BERRY MIX 25MG",
+      "codigo": "132789",
+      "precioMayorista": 7.05,
+      "imagen": "https://api.extrashop.com.py/storage/products/132789p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MI POD 30ML SALT COOL MINT 25MG",
+      "codigo": "132790",
+      "precioMayorista": 7.05,
+      "imagen": "https://api.extrashop.com.py/storage/products/132790p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MIGO 30ML SALT BLUEBERRY 35MG",
+      "codigo": "133456",
+      "precioMayorista": 6.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/133456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MIGO 30ML SALT WATERMELON 35MG",
+      "codigo": "133467",
+      "precioMayorista": 6.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/133467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MR FREEZE 30ML SALT BERRY 35MG",
+      "codigo": "134123",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/134123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MR FREEZE 30ML SALT CITRUS 35MG",
+      "codigo": "134134",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/134134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "NASTY 30ML SALT BERRY 35MG",
+      "codigo": "135456",
+      "precioMayorista": 7.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/135456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "NASTY 30ML SALT LIQUID CORN 35MG",
+      "codigo": "135467",
+      "precioMayorista": 7.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/135467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "NIKBAR 30ML SALT BERRY 35MG",
+      "codigo": "136789",
+      "precioMayorista": 6.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/136789p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "NIKBAR 30ML SALT GRAPE 35MG",
+      "codigo": "136790",
+      "precioMayorista": 6.8,
+      "imagen": "https://api.extrashop.com.py/storage/products/136790p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "POP 30ML SALT BLUEBERRY LEMON 35MG",
+      "codigo": "137123",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/137123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "POP 30ML SALT STRAWBERRY 35MG",
+      "codigo": "137134",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/137134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "REDS 30ML SALT APPLE 35MG",
+      "codigo": "138456",
+      "precioMayorista": 7.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/138456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "REDS 30ML SALT STRAWBERRY 35MG",
+      "codigo": "138467",
+      "precioMayorista": 7.4,
+      "imagen": "https://api.extrashop.com.py/storage/products/138467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "SUGARLABS 30ML SALT BLUEBERRY 35MG",
+      "codigo": "139789",
+      "precioMayorista": 7.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/139789p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "SUGARLABS 30ML SALT WATERMELON 35MG",
+      "codigo": "139790",
+      "precioMayorista": 7.5,
+      "imagen": "https://api.extrashop.com.py/storage/products/139790p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "YOGI DELIGHT 30ML SALT BLACKBERRY 35MG",
+      "codigo": "140123",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/140123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "YOGI DELIGHT 30ML SALT PEACH 35MG",
+      "codigo": "140134",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/140134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "CHARLIES CREATOR 30ML SALT BERRY 35MG",
+      "codigo": "141456",
+      "precioMayorista": 7.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/141456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "CHARLIES CREATOR 30ML SALT LEMON 35MG",
+      "codigo": "141467",
+      "precioMayorista": 7.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/141467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "COPENHAGEN 30ML SALT BLUEBERRY 35MG",
+      "codigo": "142789",
+      "precioMayorista": 7.45,
+      "imagen": "https://api.extrashop.com.py/storage/products/142789p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "COPENHAGEN 30ML SALT CHERRY 35MG",
+      "codigo": "142790",
+      "precioMayorista": 7.45,
+      "imagen": "https://api.extrashop.com.py/storage/products/142790p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "HELL VAPE 30ML SALT KIWI 35MG",
+      "codigo": "143123",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/143123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "HELL VAPE 30ML SALT PASSION FRUIT 35MG",
+      "codigo": "143134",
+      "precioMayorista": 7.15,
+      "imagen": "https://api.extrashop.com.py/storage/products/143134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "HYPNOS 30ML SALT APPLE 35MG",
+      "codigo": "144456",
+      "precioMayorista": 7.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/144456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "HYPNOS 30ML SALT GRAPE 35MG",
+      "codigo": "144467",
+      "precioMayorista": 7.3,
+      "imagen": "https://api.extrashop.com.py/storage/products/144467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "I POD MR FRZ 30ML SALT BLUE 35MG",
+      "codigo": "145789",
+      "precioMayorista": 7.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/145789p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "I POD MR FRZ 30ML SALT RED 35MG",
+      "codigo": "145790",
+      "precioMayorista": 7.55,
+      "imagen": "https://api.extrashop.com.py/storage/products/145790p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MAGNA 30ML SALT BLUEBERRY 35MG",
+      "codigo": "146123",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/146123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MAGNA 30ML SALT STRAWBERRY 35MG",
+      "codigo": "146134",
+      "precioMayorista": 7.25,
+      "imagen": "https://api.extrashop.com.py/storage/products/146134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MONSTER JOHNNY 30ML SALT BERRY 35MG",
+      "codigo": "147456",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/147456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "MONSTER JOHNNY 30ML SALT MANGO 35MG",
+      "codigo": "147467",
+      "precioMayorista": 7.35,
+      "imagen": "https://api.extrashop.com.py/storage/products/147467p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "GEEKBAR 30ML SALT BLUEBERRY 35MG",
+      "codigo": "148789",
+      "precioMayorista": 7.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/148789p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "GEEKBAR 30ML SALT LEMON ICE 35MG",
+      "codigo": "148790",
+      "precioMayorista": 7.2,
+      "imagen": "https://api.extrashop.com.py/storage/products/148790p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "ELFBAR 30ML SALT BLUEBERRY 35MG",
+      "codigo": "149123",
+      "precioMayorista": 6.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/149123p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "ELFBAR 30ML SALT GRAPE 35MG",
+      "codigo": "149134",
+      "precioMayorista": 6.95,
+      "imagen": "https://api.extrashop.com.py/storage/products/149134p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "WAKA 30ML SALT BERRY 35MG",
+      "codigo": "150456",
+      "precioMayorista": 7.1,
+      "imagen": "https://api.extrashop.com.py/storage/products/150456p1.jpg",
+      "categoria": "Vapers Recargables"
+    },
+    {
+      "nombre": "WAKA 30ML SALT TROPICAL 35MG",
+      "codigo": "150467",
+      "precioMayorista": 7.1,
+      "imagen": "https://api.extrashop.com.py/storage/products/150467p1.jpg",
+      "categoria": "Vapers Recargables"
+    }
+  ],
+  "sales": [],
+  "liquidos": [],
+  "accesorios": []
+}
